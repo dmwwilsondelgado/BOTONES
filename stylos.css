@@ -10,11 +10,14 @@
 @import url(Card.css);
 @import url(Modificadores/container.css);
 @import url(container.css);
-@import url();
 @import url(Modificadores/);
 @import url(Navegacion.css);
-
-
+@import url(Barranavegacion.css);
+@import url(Modificadores/Barranavegacion.css);
+@import url(Pagination.css);
+@import url(Modificadores/Pagination.css);
+@import url(navegacionbarrera.css);
+@import url(Modificadores/navegacionbarrera.css);
 *{
   padding: 0;
   margin: 0;
