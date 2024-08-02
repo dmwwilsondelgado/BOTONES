@@ -1,0 +1,27 @@
+.boton {
+  width: 120px;
+  background-color: purple;
+  padding: 12px;
+  border: solid 1px;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  display: flex;
+  gap: 10px;
+  justify-content: space-evenly;
+  font-size: 16px;
+  font-weight: 30px;
+  align-items: center;
+}
+.boton--border {
+  border: solid 1px #323233;
+  background-color: #fff;
+  color: blueviolet;
+}
+
+.botontexto {
+  /* color: #fff;*/
+}
+.botonicono {
+  /*  color: #fff;*/
+}
